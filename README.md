@@ -171,44 +171,6 @@ I focus on applied AI, meaning the retrieval, orchestration, evaluation, and inf
 
 ---
 
-## 🚀 Featured AI Projects
-
-### 🎥 Video Transcript RAG
-
-A retrieval-augmented generation system for asking questions over video content and getting grounded, citable answers.
-
-| Stage | What it does |
-| :-- | :-- |
-| **Ingestion** | Pulls in video transcripts and normalizes them with timestamps and source metadata |
-| **Chunking** | Splits transcripts into context-preserving, time-aligned segments |
-| **Embeddings** | Encodes each chunk into dense vectors for semantic matching |
-| **Vector search** | Indexes chunks in a vector store for fast similarity retrieval |
-| **Semantic retrieval** | Retrieves the most relevant segments for a natural-language query |
-| **Timestamp-aware retrieval** | Maps answers back to exact moments in the source video |
-| **Metadata filtering** | Narrows retrieval by video, speaker, topic, or time range |
-| **Grounded generation** | The LLM answers only from retrieved context, with references to source segments |
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embeddings-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector_Search-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM-0D1117?style=flat-square" />
-</p>
-
-### 🔭 In Progress & Up Next
-
-| Area | Direction |
-| :-- | :-- |
-| **Multimodal RAG** | Retrieval across text, images, and documents in a single pipeline |
-| **AI Agents** | Tool-using agents that plan, act, and verify their own output |
-| **LangGraph Workflows** | Stateful, multi-step agent graphs with control flow and checkpoints |
-| **MCP** | Model Context Protocol servers that expose backend services to LLMs |
-| **Document Intelligence** | OCR, layout-aware parsing, and structured extraction from documents |
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">

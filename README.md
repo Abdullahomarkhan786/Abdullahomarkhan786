@@ -93,13 +93,20 @@ I focus on applied AI, meaning the retrieval, orchestration, evaluation, and inf
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,go,js,ts&theme=dark" />
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>
 </p>
 
 **Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express&theme=dark" />
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" /></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" /></a>
 </p>
 
 **APIs & Architecture**
@@ -108,8 +115,9 @@ I focus on applied AI, meaning the retrieval, orchestration, evaluation, and inf
   <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square" />
   <img src="https://img.shields.io/badge/API_Design-0D1117?style=flat-square" />
   <img src="https://img.shields.io/badge/Authentication_&_Authorization-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/OAuth2_/_OIDC-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <a href="https://oauth.net/2/"><img src="https://img.shields.io/badge/OAuth2-0D1117?style=flat-square" alt="OAuth2" /></a>
+  <a href="https://openid.net/developers/how-connect-works/"><img src="https://img.shields.io/badge/OIDC-0D1117?style=flat-square&logo=openid&logoColor=white" alt="OIDC" /></a>
+  <a href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" /></a>
   <img src="https://img.shields.io/badge/RBAC-0D1117?style=flat-square" />
   <img src="https://img.shields.io/badge/Microservices-0D1117?style=flat-square" />
   <img src="https://img.shields.io/badge/System_Design-0D1117?style=flat-square" />
@@ -118,7 +126,9 @@ I focus on applied AI, meaning the retrieval, orchestration, evaluation, and inf
 **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/+_Vector_Databases-1F6FEB?style=flat-square" />
 </p>
@@ -126,7 +136,11 @@ I focus on applied AI, meaning the retrieval, orchestration, evaluation, and inf
 **Distributed Systems & Infrastructure**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux&theme=dark" />
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" /></a>
 </p>
 
 <p>
@@ -141,10 +155,10 @@ I focus on applied AI, meaning the retrieval, orchestration, evaluation, and inf
 **Messaging & Communication**
 
 <p>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square" />
-  <img src="https://img.shields.io/badge/WebSockets-0D1117?style=flat-square" />
+  <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" /></a>
+  <a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /></a>
+  <a href="https://grpc.io/"><img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square" alt="gRPC" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"><img src="https://img.shields.io/badge/WebSockets-0D1117?style=flat-square" alt="WebSockets" /></a>
   <img src="https://img.shields.io/badge/Message_Queues-0D1117?style=flat-square" />
 </p>
 

@@ -138,7 +138,7 @@ I focus on applied AI, meaning the retrieval, orchestration, evaluation, and inf
   <img src="https://img.shields.io/badge/Scalability_&_Reliability-0D1117?style=flat-square" />
 </p>
 
-<sub><b>Building toward:</b></sub>
+**Messaging & Communication**
 
 <p>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />

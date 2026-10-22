@@ -3,16 +3,9 @@
 <h3 align="center">AI Engineer | Backend Engineer | GenAI & Distributed Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/Abdullahomarkhan786">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;LLMs+%7C+RAG+%7C+AI+Agents;Scalable+Backend+Systems;Distributed+Systems+%26+Microservices" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-omar-khan-6b4b9224b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/abdullahomark13"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:abdullahomarkhan129@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Abdullahomarkhan786&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/abdullah-omar-khan-6b4b9224b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/abdullahomark13"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:abdullahomarkhan129@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -21,18 +14,14 @@
 <tr>
 <td width="60%" valign="top">
 
-I build **AI-powered applications** and **scalable backend systems**, with a focus on
-Generative AI, LLMs, RAG, agentic systems, and backend engineering.
+**I build AI-powered applications and scalable backend systems.**
 
-**Currently working with:**
+My work sits at the intersection of two disciplines:
 
-- 🐍 **Python** / FastAPI
-- ☕ **Java** / Spring Boot
-- 🐹 **Go**
-- 🤖 **LLMs** / RAG / AI Agents
-- 🗄️ **PostgreSQL** / MongoDB / Redis
-- ☁️ **AWS**
-- 🏗️ **Distributed Systems** / Microservices
+- **Backend engineering** with **Python/FastAPI**, **Java/Spring Boot**, **Node.js/Express**, and **Go**: APIs, authentication, data modeling, and services designed to scale.
+- **AI engineering** with **LLMs**, **RAG**, **LangChain**, **LangGraph**, **agents**, **embeddings**, **vector search**, and **multimodal AI**: turning models into reliable, grounded, production-oriented systems.
+
+I focus on applied AI, meaning the retrieval, orchestration, evaluation, and infrastructure that make LLM applications useful in the real world, rather than model research.
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -43,80 +32,196 @@ Generative AI, LLMs, RAG, agentic systems, and backend engineering.
 
 ---
 
+## 🤖 AI Engineering
+
+**LLMs & GenAI**
+
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM_Applications-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tool_Calling-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Structured_Outputs-0D1117?style=flat-square" />
+</p>
+
+**RAG & Retrieval**
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embeddings-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_Search-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Semantic_Search-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hybrid_Retrieval-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Metadata_Filtering-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Retrieval_Pipelines-1F6FEB?style=flat-square" />
+</p>
+
+**Agents & Orchestration**
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM_Orchestration-1C3C3C?style=flat-square" />
+</p>
+
+**Multimodal AI**
+
+<p>
+  <img src="https://img.shields.io/badge/Multimodal_RAG-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Document_Intelligence-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/OCR-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer_Vision-6E40C9?style=flat-square&logo=opencv&logoColor=white" />
+</p>
+
+**AI Infrastructure & Evaluation**
+
+<p>
+  <img src="https://img.shields.io/badge/Vector_Databases-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Evaluation-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM--based_Verification-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/Guardrails_&_Responsible_AI-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-238636?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
+
+---
+
+## ⚙️ Backend Engineering
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,go,js,ts&theme=dark" />
+</p>
+
+**Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express&theme=dark" />
+</p>
+
+**APIs & Architecture**
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/API_Design-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Authentication_&_Authorization-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/OAuth2_/_OIDC-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microservices-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/System_Design-0D1117?style=flat-square" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/+_Vector_Databases-1F6FEB?style=flat-square" />
+</p>
+
+**Distributed Systems & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Concurrency-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Networking-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Caching-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Event--Driven_Architecture-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scalability_&_Reliability-0D1117?style=flat-square" />
+</p>
+
+<sub><b>Building toward:</b></sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square" />
+  <img src="https://img.shields.io/badge/WebSockets-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Message_Queues-0D1117?style=flat-square" />
+</p>
+
+---
+
 ## 🧠 What I Work On
 
-| 🤖 AI / GenAI | ⚙️ Backend | 🏗️ Architecture |
-| :-- | :-- | :-- |
-| Generative AI & LLM applications | Backend APIs & microservices | Distributed systems |
-| Retrieval-Augmented Generation (RAG) | Database design & optimization | System design |
-| Multimodal AI | Authentication & authorization | Scalability & reliability |
-| AI Agents & agentic workflows | | |
+| AI Engineering | Backend Engineering |
+| :-- | :-- |
+| LLM-powered applications and assistants | REST APIs and service design |
+| RAG and multimodal retrieval pipelines | Authentication, authorization, OAuth2/OIDC, RBAC |
+| Agentic workflows with LangGraph and tool calling | Microservices and event-driven systems |
+| MCP integrations that connect LLMs to real tools and data | Database design, indexing, and caching |
+| Document intelligence: OCR, parsing, and extraction | Concurrency and distributed systems |
+| Evaluation, verification, and guardrails for LLM output | System design for scalability and reliability |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,go,js,ts&perline=10" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express&perline=10" />
-</p>
-
-**AI / Data**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=10" />
-</p>
-
-**Databases & Infrastructure**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,git,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,go,ts,fastapi,spring,nodejs,express,postgres,mongodb,redis,docker,kubernetes,aws,pytorch,linux&perline=8&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 AI / RAG Systems
-
-Building production-oriented applications involving:
-
-`RAG pipelines` · `Embeddings` · `Vector search` · `Multimodal retrieval` · `LLM orchestration` · `Agentic workflows` · `Document intelligence`
+## 🚀 Featured AI Projects
 
 ### 🎥 Video Transcript RAG
 
-A RAG system for querying video transcripts with:
+A retrieval-augmented generation system for asking questions over video content and getting grounded, citable answers.
 
-- 📥 Transcript ingestion
-- ✂️ Chunking
-- 🧬 Embeddings
-- 🔍 Semantic search
-- ⏱️ Timestamp-aware retrieval
-- 🏷️ Metadata filtering
-- 💬 LLM-based grounded answers
+| Stage | What it does |
+| :-- | :-- |
+| **Ingestion** | Pulls in video transcripts and normalizes them with timestamps and source metadata |
+| **Chunking** | Splits transcripts into context-preserving, time-aligned segments |
+| **Embeddings** | Encodes each chunk into dense vectors for semantic matching |
+| **Vector search** | Indexes chunks in a vector store for fast similarity retrieval |
+| **Semantic retrieval** | Retrieves the most relevant segments for a natural-language query |
+| **Timestamp-aware retrieval** | Maps answers back to exact moments in the source video |
+| **Metadata filtering** | Narrows retrieval by video, speaker, topic, or time range |
+| **Grounded generation** | The LLM answers only from retrieved context, with references to source segments |
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_Search-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM-0D1117?style=flat-square" />
+</p>
+
+### 🔭 In Progress & Up Next
+
+| Area | Direction |
+| :-- | :-- |
+| **Multimodal RAG** | Retrieval across text, images, and documents in a single pipeline |
+| **AI Agents** | Tool-using agents that plan, act, and verify their own output |
+| **LangGraph Workflows** | Stateful, multi-step agent graphs with control flow and checkpoints |
+| **MCP** | Model Context Protocol servers that expose backend services to LLMs |
+| **Document Intelligence** | OCR, layout-aware parsing, and structured extraction from documents |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdullahomarkhan786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahomarkhan786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdullahomarkhan786&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahomarkhan786&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdullahomarkhan786&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Abdullahomarkhan786&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullahomarkhan786&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullahomarkhan786&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -124,11 +229,9 @@ A RAG system for querying video transcripts with:
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/abdullah-omar-khan-6b4b9224b/"><img src="https://img.shields.io/badge/LinkedIn-abdullah--omar--khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-omar-khan-6b4b9224b/"><img src="https://img.shields.io/badge/LinkedIn-Abdullah_Omar_Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/abdullahomark13"><img src="https://img.shields.io/badge/X-@abdullahomark13-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="mailto:abdullahomarkhan129@gmail.com"><img src="https://img.shields.io/badge/Email-abdullahomarkhan129@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=100&section=footer" width="100%" />
-</p>
+<p>Open to conversations about AI engineering, backend systems, and building production-grade LLM applications.</p>

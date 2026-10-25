@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Omar Khan</h1>
 
-<h3 align="center">AI Engineer | Backend Engineer | GenAI & Distributed Systems</h3>
+<h3 align="center">Software Engineer | Java & Spring Boot | Full-Stack Development | AI Engineering</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-omar-khan-6b4b9224b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,14 +14,17 @@
 <tr>
 <td width="60%" valign="top">
 
-**I build AI-powered applications and scalable backend systems.**
+I'm a **Software Engineer** focused on **Java, Spring Boot**, backend architecture, and full-stack application development.
 
-My work sits at the intersection of two disciplines:
+Alongside that, I build **AI-powered applications** with **Python**, working with LLMs, RAG, multimodal retrieval, and agentic workflows.
 
-- **Backend engineering** with **Python/FastAPI**, **Java/Spring Boot**, **Node.js/Express**, and **Go**: APIs, authentication, data modeling, and services designed to scale.
-- **AI engineering** with **LLMs**, **RAG**, **LangChain**, **LangGraph**, **agents**, **embeddings**, **vector search**, and **multimodal AI**: turning models into reliable, grounded, production-oriented systems.
+**Currently focused on:**
 
-I focus on applied AI, meaning the retrieval, orchestration, evaluation, and infrastructure that make LLM applications useful in the real world, rather than model research.
+- ☕ Java & Spring Boot backend development
+- 🧩 Data Structures & Algorithms in Java
+- 📐 Low-Level Design, OOP, design patterns & clean code
+- ⚛️ React and TypeScript for full-stack work
+- 🏗️ System design & distributed systems
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -32,110 +35,77 @@ I focus on applied AI, meaning the retrieval, orchestration, evaluation, and inf
 
 ---
 
-## 🤖 AI Engineering
-
-**LLMs & GenAI**
+## ☕ Core Engineering: Java & Spring Boot
 
 <p>
-  <img src="https://img.shields.io/badge/Generative_AI-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM_Applications-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tool_Calling-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Structured_Outputs-0D1117?style=flat-square" />
-</p>
-
-**RAG & Retrieval**
-
-<p>
-  <img src="https://img.shields.io/badge/RAG-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embeddings-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector_Search-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Semantic_Search-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hybrid_Retrieval-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Metadata_Filtering-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Retrieval_Pipelines-1F6FEB?style=flat-square" />
-</p>
-
-**Agents & Orchestration**
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agentic_Workflows-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM_Orchestration-1C3C3C?style=flat-square" />
-</p>
-
-**Multimodal AI**
-
-<p>
-  <img src="https://img.shields.io/badge/Multimodal_RAG-6E40C9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Document_Intelligence-6E40C9?style=flat-square" />
-  <img src="https://img.shields.io/badge/OCR-6E40C9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer_Vision-6E40C9?style=flat-square&logo=opencv&logoColor=white" />
-</p>
-
-**AI Infrastructure & Evaluation**
-
-<p>
-  <img src="https://img.shields.io/badge/Vector_Databases-238636?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Evaluation-238636?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM--based_Verification-238636?style=flat-square" />
-  <img src="https://img.shields.io/badge/Guardrails_&_Responsible_AI-238636?style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-238636?style=flat-square&logo=pytorch&logoColor=white" />
-</p>
-
----
-
-## ⚙️ Backend Engineering
-
-**Languages**
-
-<p>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>
-  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>
-</p>
-
-**Frameworks**
-
-<p>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" /></a>
+  <a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" /></a>
+  <a href="https://hibernate.org/"><img src="https://skillicons.dev/icons?i=hibernate&theme=dark" alt="Hibernate" /></a>
+  <a href="https://maven.apache.org/"><img src="https://skillicons.dev/icons?i=maven&theme=dark" alt="Maven" /></a>
 </p>
 
-**APIs & Architecture**
-
 <p>
-  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/API_Design-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Authentication_&_Authorization-0D1117?style=flat-square" />
+  <a href="https://docs.spring.io/spring-framework/reference/web/webmvc.html"><img src="https://img.shields.io/badge/Spring_MVC-0D1117?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring MVC" /></a>
+  <a href="https://spring.io/projects/spring-security"><img src="https://img.shields.io/badge/Spring_Security-0D1117?style=flat-square&logo=springsecurity&logoColor=6DB33F" alt="Spring Security" /></a>
+  <a href="https://jakarta.ee/specifications/persistence/"><img src="https://img.shields.io/badge/JPA-0D1117?style=flat-square" alt="JPA" /></a>
+  <a href="https://docs.oracle.com/javase/tutorial/jdbc/"><img src="https://img.shields.io/badge/JDBC-0D1117?style=flat-square" alt="JDBC" /></a>
+  <a href="https://junit.org/"><img src="https://img.shields.io/badge/JUnit-0D1117?style=flat-square&logo=junit5&logoColor=25A162" alt="JUnit" /></a>
   <a href="https://oauth.net/2/"><img src="https://img.shields.io/badge/OAuth2-0D1117?style=flat-square" alt="OAuth2" /></a>
   <a href="https://openid.net/developers/how-connect-works/"><img src="https://img.shields.io/badge/OIDC-0D1117?style=flat-square&logo=openid&logoColor=white" alt="OIDC" /></a>
   <a href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" /></a>
-  <img src="https://img.shields.io/badge/RBAC-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Microservices-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/System_Design-0D1117?style=flat-square" />
 </p>
 
-**Databases**
+`REST APIs` · `Collections Framework` · `OOP` · `Exception Handling` · `Multithreading & Concurrency` · `Authentication & Authorization` · `RBAC` · `Testing`
+
+---
+
+## 🌐 Full-Stack Development
+
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" /></a>
+</p>
+
+`REST API Integration` · `Frontend Fundamentals` · `React (currently learning)`
+
+---
+
+## 🤖 AI Engineering: Python & Generative AI
+
+<p>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" /></a>
+</p>
+
+<p>
+  <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /></a>
+  <a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" /></a>
+  <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-1C3C3C?style=flat-square" alt="Model Context Protocol" /></a>
+</p>
+
+| Area | Work |
+| :-- | :-- |
+| **LLMs & GenAI** | LLM applications, prompt engineering, tool calling |
+| **RAG & Retrieval** | RAG, multimodal RAG, embeddings, vector search, hybrid retrieval, metadata filtering |
+| **Agents** | AI agents, agentic workflows, LangGraph orchestration, MCP integrations |
+| **Documents** | Document intelligence, OCR, computer vision |
+| **Quality** | LLM-based verification, evaluation, guardrails & responsible AI |
+
+---
+
+## 🗄️ Databases, System Design & Infrastructure
 
 <p>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /></a>
   <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/+_Vector_Databases-1F6FEB?style=flat-square" />
-</p>
-
-**Distributed Systems & Infrastructure**
-
-<p>
+  <a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" /></a>
+  <a href="https://www.rabbitmq.com/"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" alt="RabbitMQ" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
   <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" /></a>
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /></a>
@@ -144,44 +114,14 @@ I focus on applied AI, meaning the retrieval, orchestration, evaluation, and inf
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Concurrency-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Networking-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Caching-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Event--Driven_Architecture-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scalability_&_Reliability-0D1117?style=flat-square" />
-</p>
-
-**Messaging & Communication**
-
-<p>
-  <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" /></a>
-  <a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /></a>
   <a href="https://grpc.io/"><img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square" alt="gRPC" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"><img src="https://img.shields.io/badge/WebSockets-0D1117?style=flat-square" alt="WebSockets" /></a>
-  <img src="https://img.shields.io/badge/Message_Queues-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_Databases-0D1117?style=flat-square" alt="Vector Databases" />
 </p>
 
----
+`System Design` · `Microservices` · `Distributed Systems` · `Event-Driven Architecture` · `Message Queues` · `Caching` · `Networking` · `Scalability & Reliability`
 
-## 🧠 What I Work On
-
-| AI Engineering | Backend Engineering |
-| :-- | :-- |
-| LLM-powered applications and assistants | REST APIs and service design |
-| RAG and multimodal retrieval pipelines | Authentication, authorization, OAuth2/OIDC, RBAC |
-| Agentic workflows with LangGraph and tool calling | Microservices and event-driven systems |
-| MCP integrations that connect LLMs to real tools and data | Database design, indexing, and caching |
-| Document intelligence: OCR, parsing, and extraction | Concurrency and distributed systems |
-| Evaluation, verification, and guardrails for LLM output | System design for scalability and reliability |
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,go,ts,fastapi,spring,nodejs,express,postgres,mongodb,redis,docker,kubernetes,aws,pytorch,linux&perline=8&theme=dark" />
-</p>
+<sub>Also worked with: <a href="https://go.dev/"><b>Go</b></a></sub>
 
 ---
 
@@ -210,4 +150,4 @@ I focus on applied AI, meaning the retrieval, orchestration, evaluation, and inf
   <a href="mailto:abdullahomarkhan129@gmail.com"><img src="https://img.shields.io/badge/Email-abdullahomarkhan129@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p>Open to conversations about AI engineering, backend systems, and building production-grade LLM applications.</p>
+<p>Open to conversations about Java backend engineering, full-stack development, and AI-powered applications.</p>
